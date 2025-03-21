@@ -26,5 +26,5 @@
 	"IsGSTN": true,
 	"IsGSTN3B": false,
 	"IsCustomized": true,
-	"eMudhraV2SignatureType": 2
+	"eMudhraV2SignatureType": feature2
 }
