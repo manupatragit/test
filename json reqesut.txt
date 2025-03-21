@@ -1,6 +1,6 @@
 {
 	"Name": "Abhishek",
-	"FileType": "PDF",
+	"FileType": "PDFQA",
 	"SignatureMode": "12",
 	"AuthenticationMode": 1,
 	"SelectPage": "First",
