@@ -23,7 +23,7 @@
 	"IsCosign": true,
 	"EnableViewDocumentLink": true,
 	"Storetodb": true,
-	"IsGSTN": true,
+	"IsGSTN": feature3,
 	"IsGSTN3B": false,
 	"IsCustomized": true,
 	"eMudhraV2SignatureType": feature2
